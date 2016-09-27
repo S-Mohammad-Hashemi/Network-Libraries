@@ -1,0 +1,40 @@
+entering test_fn 0
+exiting test_fn 0
+entering test_fn 100
+exiting test_fn 100
+entering test_fn 200
+exiting test_fn 200
+entering test_fn 300
+exiting test_fn 300
+entering test_fn 700
+exiting test_fn 700
+entering test_fn 600
+exiting test_fn 600
+entering test_fn 500
+exiting test_fn 500
+entering test_fn 400
+exiting test_fn 400
+entering test_fn entering test_fn 900800
+
+entering test_fn exiting test_fn exiting test_fn 1100800900
+
+
+exiting test_fn entering test_fn 11001000
+
+exiting test_fn 1000
+entering test_fn entering test_fn 13001200
+
+entering test_fn 1500exiting test_fn exiting test_fn 
+13001200
+
+exiting test_fn 1500entering test_fn 
+1400
+exiting test_fn 1400
+entering test_fn entering test_fn 17001600
+
+entering test_fn exiting test_fn exiting test_fn 190016001700
+
+
+exiting test_fn entering test_fn 19001800
+
+exiting test_fn 1800
